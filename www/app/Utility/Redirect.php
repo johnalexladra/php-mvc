@@ -3,7 +3,7 @@
 namespace App\Utility;
 
 /**
- * Description of Redirect
+ * Redirect:
  *
  * @author John Alex Ladra <heyitsme@johnalexladra.com>
  * @since 1.0.1
